@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1085822747053-ind8q69t2u8cf89d8jkml1g1kruuktr9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1085822747053-ind8q69t2u8cf89d8jkml1g1kruuktr9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1085822747053-usbl7afuv5n2mj5vl91kmufa8bl28bm9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATnvwTeEskJWOSOOM8p5KyIVqEWOjgTyk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1085822747053</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bestcybernetics.dexiheri</string>
+	<key>PROJECT_ID</key>
+	<string>dexiheri-7c5cd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dexiheri-7c5cd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1085822747053:ios:9d86efdddccae469ca2124</string>
+	<key>DATABASE_URL</key>
+	<string>https://dexiheri-7c5cd-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
